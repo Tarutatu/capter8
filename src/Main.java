@@ -23,5 +23,6 @@ public class Main {
         h.slip();
         h.sit(30);
         h.run();
+
     }
 }
